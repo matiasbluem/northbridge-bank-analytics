@@ -1,4 +1,4 @@
-# NorthBridge Bank — Retail Banking Churn Analytics
+# Retail Banking Churn Analytics
 
 **Simulated consulting engagement** | Greater Toronto Area market | 10,000 customers | FY2025
 
